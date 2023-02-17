@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666747403 source:d:\embedded_systems\1st_term\assignments\assignment_3_array&string\homework2\ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
