@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675881781 source:d:\embedded_systems\1st_term\assignments\unit2_cprogramming\lesson5_functions\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
