@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677262709 source:d:\embedded_systems\1st_term\unit 2 - c programming\mid_term\test\count_of_binary\main.c
+	<stdio.h>
+	<stdlib.h>
+

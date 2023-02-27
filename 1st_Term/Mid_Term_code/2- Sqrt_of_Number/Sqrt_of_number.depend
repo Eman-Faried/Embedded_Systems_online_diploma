@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677359940 source:d:\embedded_systems\1st_term\unit 2 - c programming\mid_term\test\sqrt_of_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

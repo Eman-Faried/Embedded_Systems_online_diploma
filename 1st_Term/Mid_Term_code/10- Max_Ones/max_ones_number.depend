@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677427440 source:d:\embedded_systems\1st_term\unit 2 - c programming\mid_term\test\max_ones_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
