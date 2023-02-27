@@ -26,22 +26,3 @@ int main() {
     return 0;
 }
 
-/*
-int rem;
-int sum_of_digits(int n)
- {
-    if(n!=0)
-    {
-        rem = rem + (n%10);
-        n= n/10;
-        sum_of_digits(n);
-        return rem;
-    }
-    else
-        return 0;
-
-
- }
-*/
-
-
